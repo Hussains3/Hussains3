@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Sabbir Hussain</h1>
 <h3 align="center">A Full-stack developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Laravel**
-
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on **Laravel** and learling **React**
 
 - 👯 I’m looking to collaborate on **laravel projects.**
 
